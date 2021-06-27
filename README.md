@@ -7,3 +7,5 @@ The use of python made helped to draw accurate conclusions.
 
 Take a look at the conclusions drawn,
 https://colab.research.google.com/drive/1NEJlxi5YT_BK11iHUxUSTVwMsD2GVXj8?usp=sharing
+
+The datasheet is also provided.
